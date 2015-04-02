@@ -19,4 +19,5 @@ digitalWrite(13, LOW);
 delay(100);
 //här händer det grejor
 //this is a comment by R
+//Mickes commit
 }
